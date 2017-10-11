@@ -1,7 +1,2 @@
 # 2015-2016_GLA_Projet2
-
-# Contributor
-
-Siqi: ?
-
-??? : ???
+Push/pull sur le profil de WindyWay96 - fork à consulter 
